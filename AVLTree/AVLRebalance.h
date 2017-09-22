@@ -5,4 +5,4 @@
 
 BTreeNode * Rebalance(BTreeNode * pRoot);
 
-#endif __AVL_REBALANCE_H__
+#endif
